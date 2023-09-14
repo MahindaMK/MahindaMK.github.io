@@ -1,0 +1,14 @@
+---
+layout: post
+year: 2021
+title: A generalized fuzzy k-nearest neighbor regression model based on Minkowski distance
+authors: Mahinda Mailagaha Kumbure, Pasi Luukka
+venue: Granular Computing
+vatt: "7, pp. 657-671, 2022"
+vurl: https://link.springer.com/article/10.1007/s41066-021-00288-w
+pdf: https://doi.org/10.1007/s41066-021-00288-w
+web: https://www.researchgate.net/publication/354848035_A_generalized_fuzzy_k-nearest_neighbor_regression_model_based_on_Minkowski_distance
+bib: https://link.springer.com/article/10.1007/s41066-021-00288-w#Bib1
+pub: https://doi.org/10.1007/s41066-021-00288-w
+---
+
