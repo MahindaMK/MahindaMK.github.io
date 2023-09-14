@@ -224,7 +224,7 @@ strong {
 }
 
 section {
-  width:700px;
+  width:600px;
   float:right;
   padding-bottom:50px;
 }
@@ -258,7 +258,7 @@ footer {
 @media print, screen and (max-width: 1000px) {
 
   div.wrapper {
-    width:auto;
+    width:500;
     margin:0;
   }
 
