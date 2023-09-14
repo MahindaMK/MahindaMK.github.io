@@ -15,11 +15,11 @@ inst: LUT University
 vcard: 'mahinda.mailagaha.kumbure@lut.fi'
 office: https://online.tugraz.at/tug_online/ris.einzelraum?raumkey=4944
 #twitter: dderler
-orcid: https://orcid.org/0000-0002-2849-4917
+orcid: 0000-0002-2849-4917
 #keybase: dderler
-linkedin: https://www.linkedin.com/in/mk-mahinda/
-dblp: https://dblp.org/pid/264/9206.html
-scholar: https://scholar.google.ru/citations?user=RlfoN20AAAAJ&hl=en&oi=ao
+linkedin: mk-mahinda
+#dblp: https://dblp.org/pid/264/9206.html
+scholar: RlfoN20AAAAJ
 
 # Build settings
 markdown: kramdown
