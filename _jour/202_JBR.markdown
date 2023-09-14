@@ -1,0 +1,14 @@
+---
+layout: post
+year: 2020
+title: "Relation between managerial cognition and industrial performance: An assessment with strategic cognitive maps using fuzzy-set qualitative comparative analysis"
+authors: Mahinda Mailagaha Kumbure, Anssi Tarkiainen, Pasi Luukka, Jan Stoklasa, Ari Jantunen
+venue: Journal of Business Research
+vatt: "114, pp. 160-172, 2020"
+vurl: https://doi.org/10.1016/j.jbusres.2020.04.001
+#pdf: http://eprint.iacr.org/2016/792.pdf
+web: https://www.researchgate.net/publication/340752759_Relation_between_managerial_cognition_and_industrial_performance_An_assessment_with_strategic_cognitive_maps_using_fuzzy-set_qualitative_comparative_analysis
+bib: https://www.sciencedirect.com/science/article/abs/pii/S0148296320302174#preview-section-references
+pub: https://doi.org/10.1016/j.jbusres.2020.04.001
+---
+
