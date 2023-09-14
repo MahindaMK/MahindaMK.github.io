@@ -1,0 +1,12 @@
+---
+layout: post
+year: 2023
+title: Enhancing fuzzy k-nearest neighbor with entropy-weighted Minkowski distance and local means
+authors: Mahinda Mailagaha Kumbure, Pasi Luukka
+venue: The 20th World Congress of the International Fuzzy Systems Association (IFSA 2023), Daegu - South Korea
+vurl: https://ifsa2023.org
+vatt: (Presented)
+
+---
+
+
