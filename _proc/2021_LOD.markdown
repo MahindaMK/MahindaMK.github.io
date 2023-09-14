@@ -1,0 +1,13 @@
+---
+layout: post
+year: 2021
+title: A study on relevant features for intraday S&P 500 prediction using a hybrid feature selection approach
+authors: Mahinda Mailagaha Kumbure, Christoph Lohrmann, Pasi Luukka
+venue: International Conference on Machine Learning, Optimization, and Data Science (LOD 2021), England – UK
+vurl: https://link.springer.com/chapter/10.1007/978-3-030-95467-3_7
+pub: https://doi.org/10.1007/978-3-030-95467-3_7
+web: https://www.researchgate.net/publication/358275649_A_Study_on_Relevant_Features_for_Intraday_SP_500_Prediction_Using_a_Hybrid_Feature_Selection_Approach
+bib: https://link.springer.com/chapter/10.1007/978-3-030-95467-3_7
+
+---
+
