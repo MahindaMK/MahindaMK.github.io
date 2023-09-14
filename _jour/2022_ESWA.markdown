@@ -1,0 +1,13 @@
+---
+layout: post
+year: 2022
+title: "Machine learning techniques and data for stock market forecasting: A literature review"
+authors: Mahinda Mailagaha Kumbure, Christoph Lohrmann, Pasi Luukka, Jari Porras
+venue: Expert Systems with Applications
+vurl: https://www.sciencedirect.com/science/article/pii/S0957417422001452
+vatt: "197,116659, 2022"
+bib: https://www.sciencedirect.com/science/article/pii/S0957417422001452#bib1
+pdf: https://doi.org/10.1016/j.eswa.2022.116659
+web: https://www.researchgate.net/publication/358731897_Machine_learning_techniques_and_data_for_stock_market_forecasting_A_literature_review
+---
+
