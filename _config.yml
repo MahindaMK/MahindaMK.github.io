@@ -1,14 +1,14 @@
 # Site metadata
-keywords: Cryptography, Privacy, Information Security, Digital Signatures
-description: Academic Website of David Derler
-title: Homepage of David Derler
+keywords: Machine Learning, Data Science, FsQCA, Fuzzy Theory, Financial Forecasting
+description: Academic Website of Mahinda Mailagaha Kumbure
+title: Homepage of Mahinda Mailagaha Kumbure
 
-author: David Derler
-authorimg: images/dd.png
-authoroccup: Engineering Manager
+author: Mahinda Mailagaha Kumbure
+#authorimg: images/dd.png
+authoroccup: Post-doctoral Fellow
 
-inst: DFINITY
-insturl: https://www.dfinity.org
+inst: LUT University
+#insturl: https://www.dfinity.org
 # uni: Graz University of Technology
 # uniurl: http://www.tugraz.at
 
