@@ -1,0 +1,10 @@
+---
+layout: post
+year: 2023
+title: Promoting stability using ensemble feature selection with evolutionary and swarm intelligence algorithms
+authors: Christoph Lohrmann, Alena Lohrmann, Mahinda Mailagaha Kumbure, Pasi Luukk, Yuri Lawryshyn
+venue: The 20th World Congress of the International Fuzzy Systems Association (IFSA 2023), Daegu - South Korea
+vurl: https://ifsa2023.org
+vatt: (Presented)
+
+---
