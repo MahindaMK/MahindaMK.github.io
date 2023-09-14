@@ -12,13 +12,14 @@ inst: LUT University
 # uni: Graz University of Technology
 # uniurl: http://www.tugraz.at
 
-vcard: 'mailto:david@dfinity.org'
+vcard: 'mahinda.mailagaha.kumbure@lut.fi'
 office: https://online.tugraz.at/tug_online/ris.einzelraum?raumkey=4944
-twitter: dderler
-keybase: dderler
-linkedin: david-derler-08630495
-dblp: hd/d/Derler:David
-scholar: YfMKI0wAAAAJ
+#twitter: dderler
+#keybase: dderler
+linkedin: https://www.linkedin.com/in/mk-mahinda/
+dblp: https://dblp.org/pid/264/9206.html
+orcid: https://orcid.org/0000-0002-2849-4917
+scholar: https://scholar.google.ru/citations?user=RlfoN20AAAAJ&hl=en&oi=ao
 
 # Build settings
 markdown: kramdown
