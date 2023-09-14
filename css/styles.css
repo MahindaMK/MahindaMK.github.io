@@ -1,6 +1,6 @@
 body {
   background-color: #fff;
-  padding:50px;
+  padding:60px;
   font: 14px/1.5 "Raleway";
   color:#595959;
   font-weight:400;
@@ -159,7 +159,7 @@ header li {
 section ul {
   list-style-position:inside;
   list-style-type:none;
-  padding-left: 15px;
+  padding-left: 20px;
 }
 
 footer ul {
