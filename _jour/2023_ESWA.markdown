@@ -9,4 +9,5 @@ vatt: "236,121232, 2023"
 bib: https://www.sciencedirect.com/science/article/pii/S0957417423017347#bib1
 pdf: https://doi.org/10.1016/j.eswa.2023.121232
 pub: https://doi.org/10.1016/j.eswa.2023.121232
+web: https://www.researchgate.net/publication/373344913_Causal_maps_in_the_analysis_and_unsupervised_assessment_of_the_development_of_expert_knowledge_Quantification_of_the_learning_effects_for_knowledge_management_purposes
 ---
