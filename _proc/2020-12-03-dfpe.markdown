@@ -1,13 +1,11 @@
 ---
 layout: post
 year: 2021
-title: "Fine-Grained Forward Secrecy: Allow-List/Deny-List Encryption and Applications"
-authors: David Derler, Sebastian Ramacher, Daniel Slamanig, Christoph Striecks
-venue: FC 2021
-vurl: https://fc21.ifca.ai/
-pdf: http://eprint.iacr.org/2019/912.pdf
-web: http://eprint.iacr.org/2019/912
-pub: https://doi.org/10.1007/978-3-662-64331-0_26
-bib: https://dblp.org/rec/conf/fc/DerlerRSS21.html?view=bibtex
-talk: https://youtu.be/kEvfzz8eOjs
+title: "Using the generalized fuzzy k-nearest neighbor classifier for biomass feedstocks classification"
+authors: Mahinda Mailagaha Kumbure, Pasi Luukka
+venue: International Scientific Conference Knowledge on Economics and Management (KNOWCON - 2021), Olomouc - CZ
+vurl: https://kems.upol.cz/knowcon/
+pdf: https://www.researchgate.net/profile/Mahinda-Mailagaha-Kumbure-2/publication/359301174_Using_the_generalized_fuzzy_k-nearest_neighbor_classifier_for_biomass_feedstocks_classification/links/6233a78b548e2b16374a1f74/Using-the-generalized-fuzzy-k-nearest-neighbor-classifier-for-biomass-feedstocks-classification.pdf
+web: https://www.researchgate.net/profile/Mahinda-Mailagaha-Kumbure-2/publication/359301174_Using_the_generalized_fuzzy_k-nearest_neighbor_classifier_for_biomass_feedstocks_classification/links/6233a78b548e2b16374a1f74/Using-the-generalized-fuzzy-k-nearest-neighbor-classifier-for-biomass-feedstocks-classification.pdf
+pub: 10.15439/2021B5
 ---
