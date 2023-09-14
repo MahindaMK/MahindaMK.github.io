@@ -1,0 +1,14 @@
+---
+layout: post
+year: 2020
+title: A new fuzzy k-nearest neighbor classifier based on the Bonferroni mean
+authors: Mahinda Mailagaha Kumbure, Pasi Luukka, Mikael Collan
+venue: Pattern Recognition Letters
+vatt: "140, pp. 172-178, 2020"
+vurl: https://doi.org/10.1016/j.patrec.2020.10.005
+pdf: https://lutpub.lut.fi/bitstream/handle/10024/161744/mailagaha_kumbure_et_al_a_new_fuzzy_aam.pdf?sequence=1&isAllowed=y
+web: https://www.researchgate.net/publication/344606132_A_new_fuzzy_k-nearest_neighbor_classifier_based_on_the_Bonferroni_mean
+bib: https://www.sciencedirect.com/science/article/abs/pii/S0167865520303792#preview-section-references
+pub: https://doi.org/10.1016/j.patrec.2020.10.005
+---
+
