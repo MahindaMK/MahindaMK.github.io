@@ -224,7 +224,8 @@ strong {
 }
 
 section {
-  width:600px;
+  /*width:600px;*/
+  width:800px
   float:right;
   padding-bottom:50px;
 }
@@ -258,8 +259,7 @@ footer {
 @media print, screen and (max-width: 960px) {
 
   div.wrapper {
-    /* width:auto; */
-    width:500px
+    width:auto;
     margin:0;
   }
 
